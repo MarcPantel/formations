@@ -534,7 +534,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 
 ### Montpellier
 
-##### Université de Montpellier
+#### Université de Montpellier
 
 - [Licence informatique](http://informatique-fds.edu.umontpellier.fr/etudiants/offre-de-formation-licence/), parcours Informatique et Mathématiques-Informatique
 - [Master informatique](http://informatique-fds.edu.umontpellier.fr/etudiants/offre-de-formation-master/) :
@@ -548,14 +548,26 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - [Master Sciences et Numérique pour la Santé](http://sns.edu.umontpellier.fr/fr/master-sciences-numerique-pour-la-sante-montpellier/) :
     + [Parcours BCD](http://sns.edu.umontpellier.fr/fr/master-sciences-numerique-pour-la-sante-montpellier/bcd/) – Bioinformatique, Connaissances, Données
 
-##### Université Paul-Valery Montpellier
+#### Université Paul-Valery Montpellier
 
 - [Licence MIASHS](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs)
 - [Master MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs)
 
 ### Toulouse
 
-##### _Université de Toulouse - Jean Jaurès_ (UT2J), [Département Mathématiques et Informatique (DMI)](http://mathsinfo.univ-tlse2.fr/)
+#### _Université de Toulouse - [Institut National Polytechnique de Toulouse - Toulouse INP](http://www.inp-toulouse.fr)_
+
+##### Cycle Préparatoire Polytechnique - La Prépas des INPs -
+
+##### [ENSEEIHT - École Nationale Supérieure d'Électrotechnique, d'Électronique, d'Informatique, d'Hydraulique et des Télécommunication](http://www.enseeiht.fr)
+
+- Ingénieur en Sciences du Numérique,
+    + FISE - Formation Initiale sous Statut d'Étudiant 
+    + FIS - Formation Initiale sous Statut d'Apprenti
+
+#### _Université de Toulouse - [INSA Toulouse - Institut National des Sciences Appliquées, Toulouse](http://www.insa-toulouse.fr)_
+
+#### _Université de Toulouse - Jean Jaurès_ (UT2J), [Département Mathématiques et Informatique (DMI)](http://mathsinfo.univ-tlse2.fr/)
 
 - [Licence MIASHS, parcours Informatique](http://mathsinfo.univ-tlse2.fr/accueil/formations/licence-miashs/l3-parcours-info/)
 - Master Informatique
@@ -563,12 +575,12 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
     + [parcours _Informatique, Statistique, Mathématiques Appliquées à la Gestion de production_ (ISMAG)](http://mathsinfo.univ-tlse2.fr/accueil/formations/master-ismag/)
 - [Doctorat en Informatique](http://www.edmitt.ups-tlse.fr/)
 
-##### _Université de Toulouse - Jean Jaurès_ (UT2J), [IUT de Blagnac](http://www.iut-blagnac.fr/)
+#### _Université de Toulouse - Jean Jaurès_ (UT2J), [IUT de Blagnac](http://www.iut-blagnac.fr/)
 
 - [DUT Informatique](http://www.iut-blagnac.fr/spip.php?mot1)
 - [LP APSIO](http://www.iut-blagnac.fr/spip.php?mot1&id_article=2)
 
-##### _Université de Toulouse - Paul Sabatier_ (UT3), [Département Informatique](http://departement-informatique.univ-tlse3.fr)
+#### _Université de Toulouse - Paul Sabatier_ (UT3), [Département Informatique](http://departement-informatique.univ-tlse3.fr)
 - [Licence Informatique](http://departement-informatique.univ-tlse3.fr/licence/licence-informatique)
 - [Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales (MIASHS)](http://departement-informatique.univ-tlse3.fr/licence/licence-miashs/)
 - [Master Informatique](http://departement-informatique.univ-tlse3.fr/master/master-informatique)
